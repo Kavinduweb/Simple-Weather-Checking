@@ -36,6 +36,7 @@ export default function Admin  (){
         <br></br>
             <form  >
                 <br></br>
+                <p>Login Using username=admin password=admin</p>
             <h2>weather System</h2>
 
             <input type="text" placeholder="Username" id="user1" ></input><br></br>
